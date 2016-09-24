@@ -25,6 +25,109 @@ of a statement, which declares (creates) a variable foo:
 
 ###Variables and Assignment
 
+Identifiers are names that play various syntactic roles in JavaScript. For example, the
+name of a variable is an identifier. Identifiers are case sensitive.
+
+The following identifiers are reserved words—they are part of the syntax and can’t be
+used as variable names (including function names and parameter names):
+
+- arguments 
+
+- break 
+
+- case 
+
+- catch
+
+- class 
+
+- const 
+
+- continue 
+
+- debugger
+
+- default 
+
+- delete 
+
+- do 
+
+- else
+
+- enum 
+
+- export 
+
+- extends 
+
+- false
+
+- finally 
+
+- for 
+
+- function 
+
+- if
+
+- implements 
+
+- import 
+
+- in 
+
+- instanceof
+
+- interface 
+
+- let 
+
+- new 
+
+- null
+
+- package 
+
+- private 
+
+- protected 
+
+- public
+
+- return 
+
+- static 
+
+- super 
+
+- switch
+
+- this 
+
+- throw 
+
+- true 
+
+- try
+
+- typeof 
+
+- var 
+
+- void 
+
+- while
+
+The following three identifiers are not reserved words, but you should treat them as if
+they were:
+
+- Infinity
+
+- NaN
+
+- undefined
+
 ###Values
 
 ###Booleans
