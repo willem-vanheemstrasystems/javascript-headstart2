@@ -28,8 +28,7 @@ of a statement, which declares (creates) a variable foo:
 Identifiers are names that play various syntactic roles in JavaScript. For example, the
 name of a variable is an identifier. Identifiers are case sensitive.
 
-The following identifiers are reserved words—they are part of the syntax and can’t be
-used as variable names (including function names and parameter names):
+The following identifiers are ***reserved words*** — they are part of the syntax and can’t be used as variable names (including function names and parameter names):
 
 - arguments 
 
