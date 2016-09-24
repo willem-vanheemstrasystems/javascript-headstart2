@@ -10,6 +10,8 @@
 referring to versions of the language, people say ECMAScript. The current version
 of JavaScript is ECMAScript 5; ECMAScript 6 is currently being developed.
 
+JavaScript enables a programming style that is a mixture of functional programming (higher-order functions; built-in map, reduce, etc.) and object-oriented programming (objects, inheritance).
+
 ###Syntax
 
 ###Variables and Assignment
