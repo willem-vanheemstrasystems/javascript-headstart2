@@ -14,6 +14,15 @@ JavaScript enables a programming style that is a mixture of functional programmi
 
 ###Syntax
 
+• ***Statements*** “do things”. A program is a sequence of statements. Here is an example
+of a statement, which declares (creates) a variable foo:
+
+```var foo;```
+
+• ***Expressions*** produce values. They are function arguments, the right side of an assignment, etc. Here’s an example of an expression:
+
+```3 * 7```
+
 ###Variables and Assignment
 
 ###Values
