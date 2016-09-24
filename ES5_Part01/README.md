@@ -129,6 +129,21 @@ they were:
 
 ###Values
 
+All values in JavaScript have properties. Each property has a key (or name) and a value. You can think of properties like fields of a record. You use the dot (.) operator to read a property:
+
+```value.propKey```
+
+For example, the string 'abc' has the property length:
+
+```javascript
+> var str = 'abc';
+> str.length
+3
+```
+
+The two “non-values” ```undefined``` and ```null``` do not have properties.
+
+
 ###Booleans
 
 ###Numbers
