@@ -143,6 +143,13 @@ For example, the string 'abc' has the property length:
 3
 ```
 
+And you can use it to invoke methods:
+
+```javascript
+> 'hello'.toUpperCase()
+'HELLO'
+```
+
 The two “non-values” ```undefined``` and ```null``` do not have properties.
 
 ###Booleans
