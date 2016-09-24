@@ -4,6 +4,12 @@
 
 ###Background
 
+• JavaScript means the programming language.
+
+• ECMAScript is the name used by the language specification. Therefore, whenever
+referring to versions of the language, people say ECMAScript. The current version
+of JavaScript is ECMAScript 5; ECMAScript 6 is currently being developed.
+
 ###Syntax
 
 ###Variables and Assignment
